@@ -482,6 +482,8 @@
     font-size: 25px;
     font-weight: 500;
     margin: 10px 0 7px 0;
+    color: #fff; /* Make the text white */
+
   }
   
   .projects .carousel .card img {
