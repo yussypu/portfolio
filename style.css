@@ -648,14 +648,6 @@
     animation: pulsate 1s ease-in-out;
   }
 
-.card-link {
-  text-decoration: none;
-  color: inherit;
-}
-
-.card-link:hover .card {
-  /* Add any hover effects here if needed */
-}
   
   /*  Social  */
   .col-4 {
